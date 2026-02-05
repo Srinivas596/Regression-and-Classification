@@ -1,0 +1,19 @@
+step 1: import libraries
+step 2: EDA
+step 3: separate variables x and y
+step 4: train,test,split
+step 5: selection of model
+step 6: train the model
+step 7: predict model
+step 8: evaluation
+For regression:
+  mean squared error
+  mean absolute error
+  r2_score
+  root mean squared error
+For classification:
+  accuracy
+  precision
+  recall
+  f1_score
+  confusion matrix
